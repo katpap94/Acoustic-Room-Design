@@ -35,6 +35,6 @@ Excel files for acoustic behavior of large enclosed space
 - Προμελέτη διαμόρφωσης χώρων (home studio, αίθουσες, γραφεία)
 - Προσομοιώσεις RT60 και σχεδιασμό απορρόφησης
 
----
+
 
 >
